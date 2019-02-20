@@ -103,6 +103,7 @@ RoadMap
 - elviswf/[DeepLearningBookQA_cn](https://github.com/elviswf/DeepLearningBookQA_cn): 深度学习面试问题
 - huihut/[interview: C/C++面试知识总结](https://github.com/huihut/interview) 
 - CSDN博客/[结构之法 算法之道](https://blog.csdn.net/v_july_v)
+- 矩阵求导(https://blog.csdn.net/WPR1991/article/details/82929843)
 - 牛客网/[笔试面经](https://www.nowcoder.com/discuss?type=2&order=0)
 - GitHub 搜索：[Deep Learning Interview](https://github.com/search?q=deep+learning+interview)
 - GitHub 搜索：[Machine Learning Interview](https://github.com/search?q=machine+learning+interview)
